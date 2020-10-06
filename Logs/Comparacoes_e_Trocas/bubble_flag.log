@@ -1,0 +1,48 @@
+// Bubble Sort com flag
+// Crescente
+Comparacoes:9999 	Trocas:0 	Itens=010000 	Metodo=Crescente
+Comparacoes:9999 	Trocas:0 	Itens=010000 	Metodo=Crescente
+Comparacoes:9999 	Trocas:0 	Itens=010000 	Metodo=Crescente
+Comparacoes:9999 	Trocas:0 	Itens=010000 	Metodo=Crescente
+Comparacoes:9999 	Trocas:0 	Itens=010000 	Metodo=Crescente
+Comparacoes:9999 	Trocas:0 	Itens=010000 	Metodo=Crescente
+Comparacoes:49999 	Trocas:0 	Itens=050000 	Metodo=Crescente
+Comparacoes:49999 	Trocas:0 	Itens=050000 	Metodo=Crescente
+Comparacoes:49999 	Trocas:0 	Itens=050000 	Metodo=Crescente
+Comparacoes:49999 	Trocas:0 	Itens=050000 	Metodo=Crescente
+Comparacoes:49999 	Trocas:0 	Itens=050000 	Metodo=Crescente
+Comparacoes:49999 	Trocas:0 	Itens=050000 	Metodo=Crescente
+Comparacoes:99999 	Trocas:0 	Itens=100000 	Metodo=Crescente
+Comparacoes:99999 	Trocas:0 	Itens=100000 	Metodo=Crescente
+Comparacoes:99999 	Trocas:0 	Itens=100000 	Metodo=Crescente
+Comparacoes:99999 	Trocas:0 	Itens=100000 	Metodo=Crescente
+Comparacoes:99999 	Trocas:0 	Itens=100000 	Metodo=Crescente
+Comparacoes:99999 	Trocas:0 	Itens=100000 	Metodo=Crescente
+
+// Decrescente
+Comparacoes:49995000 	Trocas:49995000 	Itens=010000 	Metodo=Decrescente
+Comparacoes:49995000 	Trocas:49995000 	Itens=010000 	Metodo=Decrescente
+Comparacoes:49995000 	Trocas:49995000 	Itens=010000 	Metodo=Decrescente
+Comparacoes:49995000 	Trocas:49995000 	Itens=010000 	Metodo=Decrescente
+Comparacoes:49995000 	Trocas:49995000 	Itens=010000 	Metodo=Decrescente
+Comparacoes:49995000 	Trocas:49995000 	Itens=010000 	Metodo=Decrescente
+Comparacoes:1249975000 	Trocas:1249975000 	Itens=050000 	Metodo=Decrescente
+Comparacoes:1249975000 	Trocas:1249975000 	Itens=050000 	Metodo=Decrescente
+Comparacoes:1249975000 	Trocas:1249975000 	Itens=050000 	Metodo=Decrescente
+Comparacoes:1249975000 	Trocas:1249975000 	Itens=050000 	Metodo=Decrescente
+Comparacoes:1249975000 	Trocas:1249975000 	Itens=050000 	Metodo=Decrescente
+Comparacoes:1249975000 	Trocas:1249975000 	Itens=050000 	Metodo=Decrescente
+Comparacoes:4999950000 	Trocas:4999950000 	Itens=100000 	Metodo=Decrescente
+Comparacoes:4999950000 	Trocas:4999950000 	Itens=100000 	Metodo=Decrescente
+Comparacoes:4999950000 	Trocas:4999950000 	Itens=100000 	Metodo=Decrescente
+
+// Aleatorio
+Comparacoes:49988445 	Trocas:24712364 	Itens=010000 	Metodo=Aleatorio
+Comparacoes:49988445 	Trocas:24712364 	Itens=010000 	Metodo=Aleatorio
+Comparacoes:49973264 	Trocas:24934410 	Itens=010000 	Metodo=Aleatorio
+Comparacoes:1249922674 	Trocas:625134512 	Itens=050000 	Metodo=Aleatorio
+Comparacoes:1249962910 	Trocas:623550626 	Itens=050000 	Metodo=Aleatorio
+Comparacoes:1249879297 	Trocas:625073697 	Itens=050000 	Metodo=Aleatorio
+Comparacoes:4999901795 	Trocas:2496413907 	Itens=100000 	Metodo=Aleatorio
+Comparacoes:4999874534 	Trocas:2495511402 	Itens=100000 	Metodo=Aleatorio
+Comparacoes:4999712295 	Trocas:2499698684 	Itens=100000 	Metodo=Aleatorio

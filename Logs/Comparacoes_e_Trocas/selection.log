@@ -1,0 +1,33 @@
+// Selection Sort
+// Crescente
+Comparacoes:49994999 	Trocas:9998 	Itens=010000 	Metodo=Crescente
+Comparacoes:49994999 	Trocas:9998 	Itens=010000 	Metodo=Crescente
+Comparacoes:49994999 	Trocas:9998 	Itens=010000 	Metodo=Crescente
+Comparacoes:1249974999 	Trocas:49998 	Itens=050000 	Metodo=Crescente
+Comparacoes:1249974999 	Trocas:49998 	Itens=050000 	Metodo=Crescente
+Comparacoes:1249974999 	Trocas:49998 	Itens=050000 	Metodo=Crescente
+Comparacoes:4999949999 	Trocas:99998 	Itens=100000 	Metodo=Crescente
+Comparacoes:4999949999 	Trocas:99998 	Itens=100000 	Metodo=Crescente
+Comparacoes:4999949999 	Trocas:99998 	Itens=100000 	Metodo=Crescente
+
+// Decrescente
+Comparacoes:49994999 	Trocas:9998 	Itens=010000 	Metodo=Decrescente
+Comparacoes:49994999 	Trocas:9998 	Itens=010000 	Metodo=Decrescente
+Comparacoes:49994999 	Trocas:9998 	Itens=010000 	Metodo=Decrescente
+Comparacoes:1249974999 	Trocas:49998 	Itens=050000 	Metodo=Decrescente
+Comparacoes:1249974999 	Trocas:49998 	Itens=050000 	Metodo=Decrescente
+Comparacoes:1249974999 	Trocas:49998 	Itens=050000 	Metodo=Decrescente
+Comparacoes:4999949999 	Trocas:99998 	Itens=100000 	Metodo=Decrescente
+Comparacoes:4999949999 	Trocas:99998 	Itens=100000 	Metodo=Decrescente
+Comparacoes:4999949999 	Trocas:99998 	Itens=100000 	Metodo=Decrescente
+
+// Aleatorio
+Comparacoes:49994999 	Trocas:9998 	Itens=010000 	Metodo=Aleatorio
+Comparacoes:49994999 	Trocas:9998 	Itens=010000 	Metodo=Aleatorio
+Comparacoes:49994999 	Trocas:9998 	Itens=010000 	Metodo=Aleatorio
+Comparacoes:1249974999 	Trocas:49998 	Itens=050000 	Metodo=Aleatorio
+Comparacoes:1249974999 	Trocas:49998 	Itens=050000 	Metodo=Aleatorio
+Comparacoes:1249974999 	Trocas:49998 	Itens=050000 	Metodo=Aleatorio
+Comparacoes:4999949999 	Trocas:99998 	Itens=100000 	Metodo=Aleatorio
+Comparacoes:4999949999 	Trocas:99998 	Itens=100000 	Metodo=Aleatorio
+Comparacoes:4999949999 	Trocas:99998 	Itens=100000 	Metodo=Aleatorio

@@ -1,0 +1,66 @@
+// Bubble Sort Com Flag
+// Crescente
+Itens=010000 	Metodo=Crescente 	0.000000s 	0.000000ms
+Itens=010000 	Metodo=Crescente 	0.000000s 	0.000000ms
+Itens=010000 	Metodo=Crescente 	0.000000s 	0.000000ms
+Itens=010000 	Metodo=Crescente 	0.000000s 	0.000000ms
+Itens=010000 	Metodo=Crescente 	0.000000s 	0.000000ms
+Itens=010000 	Metodo=Crescente 	0.000000s 	0.000000ms
+
+Itens=050000 	Metodo=Crescente 	0.001000s 	1.000000ms
+Itens=050000 	Metodo=Crescente 	0.000000s 	0.000000ms
+Itens=050000 	Metodo=Crescente 	0.000000s 	0.000000ms
+Itens=050000 	Metodo=Crescente 	0.000000s 	0.000000ms
+Itens=050000 	Metodo=Crescente 	0.000000s 	0.000000ms
+Itens=050000 	Metodo=Crescente 	0.001000s 	1.000000ms
+
+Itens=100000 	Metodo=Crescente 	0.000000s 	0.000000ms
+Itens=100000 	Metodo=Crescente 	0.000000s 	0.000000ms
+Itens=100000 	Metodo=Crescente 	0.000000s 	0.000000ms
+Itens=100000 	Metodo=Crescente 	0.000000s 	0.000000ms
+Itens=100000 	Metodo=Crescente 	0.001000s 	1.000000ms
+Itens=100000 	Metodo=Crescente 	0.000000s 	0.000000ms
+
+// Decrescente
+Itens=010000 	Metodo=Decrescente 	0.402000s 	402.000000ms
+Itens=010000 	Metodo=Decrescente 	0.438000s 	438.000000ms
+Itens=010000 	Metodo=Decrescente 	0.407000s 	407.000000ms
+Itens=010000 	Metodo=Decrescente 	0.384000s 	384.000000ms
+Itens=010000 	Metodo=Decrescente 	0.383000s 	383.000000ms
+Itens=010000 	Metodo=Decrescente 	0.380000s 	380.000000ms
+
+Itens=050000 	Metodo=Decrescente 	15.834000s 	15834.000000ms
+Itens=050000 	Metodo=Decrescente 	15.999000s 	15999.000000ms
+Itens=050000 	Metodo=Decrescente 	16.677000s 	16677.000000ms
+Itens=050000 	Metodo=Decrescente 	16.645000s 	16645.000000ms
+Itens=050000 	Metodo=Decrescente 	16.362000s 	16362.000000ms
+Itens=050000 	Metodo=Decrescente 	16.238000s 	16238.000000ms
+
+Itens=100000 	Metodo=Decrescente 	68.468000s 	68468.000000ms
+Itens=100000 	Metodo=Decrescente 	69.082000s 	69082.000000ms
+Itens=100000 	Metodo=Decrescente 	69.024000s 	69024.000000ms
+Itens=100000 	Metodo=Decrescente 	68.952000s 	68952.000000ms
+Itens=100000 	Metodo=Decrescente 	68.427000s 	68427.000000ms
+Itens=100000 	Metodo=Decrescente 	68.191000s 	68191.000000ms
+
+// Aleatorio
+Itens=010000 	Metodo=Aleatorio 	0.448000s 	448.000000ms
+Itens=010000 	Metodo=Aleatorio 	0.392000s 	392.000000ms
+Itens=010000 	Metodo=Aleatorio 	0.389000s 	389.000000ms
+Itens=010000 	Metodo=Aleatorio 	0.401000s 	401.000000ms
+Itens=010000 	Metodo=Aleatorio 	0.404000s 	404.000000ms
+Itens=010000 	Metodo=Aleatorio 	0.405000s 	405.000000ms
+
+Itens=050000 	Metodo=Aleatorio 	13.094000s 	13094.000000ms
+Itens=050000 	Metodo=Aleatorio 	13.070000s 	13070.000000ms
+Itens=050000 	Metodo=Aleatorio 	13.024000s 	13024.000000ms
+Itens=050000 	Metodo=Aleatorio 	13.067000s 	13067.000000ms
+Itens=050000 	Metodo=Aleatorio 	13.025000s 	13025.000000ms
+Itens=050000 	Metodo=Aleatorio 	13.128000s 	13128.000000ms
+
+Itens=100000 	Metodo=Aleatorio 	52.832000s 	52832.000000ms
+Itens=100000 	Metodo=Aleatorio 	52.963000s 	52963.000000ms
+Itens=100000 	Metodo=Aleatorio 	52.851000s 	52851.000000ms
+Itens=100000 	Metodo=Aleatorio 	53.169000s 	53169.000000ms
+Itens=100000 	Metodo=Aleatorio 	53.427000s 	53427.000000ms
+Itens=100000 	Metodo=Aleatorio 	53.398000s 	53398.000000ms
